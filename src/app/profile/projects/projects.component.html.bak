@@ -1,0 +1,48 @@
+<div class="section" id="projects">
+    <div class="container cc-education">
+        <div class="h4 text-center mb-4 title">Projects</div>
+
+        <div class="row">
+            <!-- Project 1 -->
+            <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft" data-aos="fade-up">
+                <div class="blog-entry">
+                    <div class="card">
+                        <img class="card-img-top" src="assets/images/portfolio-resized.jpg" alt="Card image" />
+                        <div class="card-body">
+                            <h5 class="card-title"><b>Personal Portfolio</b></h5>
+                            <h5 class="card-text">
+                                <b>Technology :</b> Angular, TypeScript, Bootstrap
+                            </h5>
+                            <!-- <h5 class="card-text">
+                  <a
+                    href="https://github.com/rishabh-kukreja/Personal-Portfolio-Angular"
+                    >View my Live Demo</a
+                  >
+                </h5> -->
+                            <button class="btn btn-primary"
+                                onclick="location.href='https://rishabh-kukreja.github.io/Personal-Portfolio-Angular/'"
+                                type="button">
+                                Live Demo Link
+                            </button>
+
+                            <button class="btn btn-primary"
+                                onclick="location.href='https://github.com/rishabh-kukreja/Sorting-Visualizer'"
+                                type="button">
+                                Github Link
+                            </button>
+
+                            <!-- <a href="http" class="btn btn-primary stretched-link ml-2 mr-5"
+                  >See Project</a
+                >
+                <a
+                  href="https://github.com/rishabh-kukreja/Personal-Portfolio-Angular"
+                  class="btn btn-primary stretched-link"
+                  >GithubLink</a
+                > -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
